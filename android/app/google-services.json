@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977798015612",
+    "project_id": "ww-bandung",
+    "storage_bucket": "ww-bandung.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977798015612:android:39676e1e18aeb3789b37f9",
+        "android_client_info": {
+          "package_name": "com.example.wbdg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977798015612-ph5f03kgbq4tg5j4nhm3cd08dd527j4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdcWKYHFn_aUYIbHRiUAV3-B3usEuE-HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977798015612-ph5f03kgbq4tg5j4nhm3cd08dd527j4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
